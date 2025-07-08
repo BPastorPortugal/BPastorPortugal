@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrolladora web con formación intensiva en **Henry**, especializada en construir aplicaciones modernas, funcionales y con una excelente experiencia de usuario. Me motiva el aprendizaje constante y el desarrollo de soluciones que generen impacto real.
+Soy desarrolladora web con formación intensiva en **Henry**, especializada en crear aplicaciones modernas, funcionales y con una gran experiencia de usuario. Me apasiona el diseño y disfruto darle vida a las interfaces con creatividad y detalle. Además, valoro profundamente la comunicación: me encanta socializar, conversar y trabajar en equipo, porque creo que las mejores soluciones surgen del intercambio de ideas. Me motiva el aprendizaje constante y el desarrollo de tecnologías que marquen una diferencia real.
 
 ---
 
